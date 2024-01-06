@@ -28,6 +28,11 @@ date()
   return date;
 }
 
+/**
+ * @brief return current time
+ *
+ * @return pointer to time
+ */
 char *
 curtime()
 {
