@@ -1,5 +1,5 @@
 # flags and incs
-CFLAGS = -Wall -g
+CFLAGS = -Wall
 INCS = login.c util.c
 
 PREFIX = /usr/local 
