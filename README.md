@@ -13,7 +13,7 @@ where every new line contains a new person.
 The program takes user input from stdin, (by default it rejects any chars as we
 have numerical id numbers). Every column past the days in is filled with the
 date and time that the person punched in.
-## BUILDING
+## Building
 To build you just need a c compiler, and make. Then you can run `make` to
 build to the local directory. To install the program system wide run
 `sudo make install`.
