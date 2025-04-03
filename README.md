@@ -1,5 +1,5 @@
 # Login
-This is a simple tool to allow people to "login".
+This is a simple tool to allow people to login to an attendance system.
 
 The program needs a csv file to read from/output to. This can be found at the
 top of login.c as a macro. The default value is "timesheet.csv", and should
